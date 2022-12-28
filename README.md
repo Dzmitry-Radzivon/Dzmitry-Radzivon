@@ -23,7 +23,7 @@
 - [Test-Cases](https://github.com/Dzmitry-Radzivon/Test-cases)
 - [Bug-Reports](https://github.com/Dzmitry-Radzivon/Bug-reports)
 - [SQL Queries](https://github.com/Dzmitry-Radzivon/SQL-queries)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://www.postman.com/dzmitrywww/workspace/test-workspace/collection/24264358-2d9aad56-3394-4029-ae03-aa5e150fafe0?action=share&creator=24264358)
 
 ### Follow Me
 
