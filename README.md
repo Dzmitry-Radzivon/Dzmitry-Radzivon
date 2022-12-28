@@ -19,7 +19,7 @@
 
 ### Testing Documentation
 
-- [Checklists](https://https://github.com/Dzmitry-Radzivon/Checklists/blob/main/Checklists.xls)
+- [Checklists](https://github.com/Dzmitry-Radzivon/Checklists)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
