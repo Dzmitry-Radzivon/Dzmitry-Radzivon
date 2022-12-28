@@ -22,7 +22,7 @@
 - [Checklists](https://github.com/Dzmitry-Radzivon/Checklists)
 - [Test-Cases](https://github.com/Dzmitry-Radzivon/Test-cases)
 - [Bug-Reports](https://github.com/Dzmitry-Radzivon/Bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [SQL Queries](https://github.com/Dzmitry-Radzivon/SQL-queries)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Follow Me
